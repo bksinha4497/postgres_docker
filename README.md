@@ -6,9 +6,9 @@ Start command : docker-compose -f postgresDocker.yaml up  -d
 
 Stop command  : docker-compose -f postgresDocker.yaml down
 
-pg admin url - localhost:8081
+pg admin url : localhost:8081
 
-postgres connection url - localhost:5432
+postgres connection url : localhost:5432
 
 postgres user : postgres
 
